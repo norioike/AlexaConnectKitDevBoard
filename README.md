@@ -1,2 +1,9 @@
-# AlexaConnectKitDevBoard
-Design the original AlexaConnectKit Dev-board 
+# AlexaConnectKit Dev-Boardについて
+この基板は主にAlexa Connect Kitを使ったデバイスを開発するための開発ボードとして作りました。
+RP2040をMCUにAlexaConnectKitのモジュール "ESP32-PICO-V3-ZERO"と通信ができるようになっています。
+またRP2040のGPIOは出せるだけ出しているので、センサー類を追加したり駆動系を追加する事でオリジナルのAlexa対応ロボットなどが作れるようになる（と思います)
+
+ただ、この基板単体でも遊べるようにタクトスイッチとフルカラーLEDを実装しています。
+しかし、私のミスでフルカラーLEDは点灯しません。電源は5Vにもかかわらず、3.3Vを供給。そのため命令を送っても点灯しません。
+
+## Alexa Connect Kitについて
