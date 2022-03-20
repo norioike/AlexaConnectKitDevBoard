@@ -8,6 +8,7 @@ RP2040をMCUにAlexaConnectKitのモジュール "ESP32-PICO-V3-ZERO"と通信�
 
 部品が余ったので数個だけ頒布しています。
 もしよろしければこちらをご覧下さい。
+https://rinoproducts.booth.pm/items/3733834
 
 
 ## Alexa Connect Kitについて
